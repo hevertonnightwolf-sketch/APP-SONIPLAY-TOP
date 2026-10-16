@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.30",
-  "apkUrl": "https://github.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/releases/download/1.01/SoniplayTOP-1.30.apk",
-  "changelog": "Correções e melhorias gerais de estabilidade e layout."
+  "versionCode": 4,
+  "versionName": "1.60",
+  "apkUrl": "https://github.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/releases/download/1.60/SoniplayTOP-1.60.apk",
+  "changelog": "🚀 Novidades da Versão:\n• 🔒 Novo sistema de segurança e validação instantânea de acesso da conta.\n• 📺 Navegação por controle remoto (D-Pad) 100% estabilizada na tela de séries e downloads.\n• ⚡ Inicialização mais rápida com controle de abertura e otimização de reprodução.\n• 🧹 Ferramenta de limpeza profunda de memória, cache e resíduos do sistema.\n• 🛡️ Proteção reforçada com verificação do PIN atual no controle parental.\n• 🛠️ Melhorias gerais de fluidez, estabilidade e conexões com servidores."
 }
