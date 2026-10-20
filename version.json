@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/releases/download/2.0/SoniplayTOP-3.1.apk",
-  "changelog": "🚀 Novidades da Versão 3.0 - A Grande Evolução:\n• 📻 Sistema Completo de Rádios Online: +1000 estações brasileiras integradas via Radio Browser API com reprodução em segundo plano (ExoPlayer/Media3).\n• 🗺️ Navegação Profissional em Duas Colunas (Sidebar): Layout estilo TV com menu lateral deslizante por regiões/estados e grade dinâmica à direita (Lazy Loading severo para economia máxima de RAM e ROM).\n• ⭐ Favoritos e Gerenciamento Isolado: Sistema dedicado de favoritos para rádios com marcação rápida por clique longo (OK) no controle remoto e salvamento local limpo.\n• ⏹️ Controle Total de Áudio: Atalhos nativos de parada instantânea e navegação fluida adaptada 100% para D-Pad em TV Box.\n• ⚡ Performance e Estabilidade Avançadas: Reestruturação modular estrita (Zero impacto nos módulos de Live TV e VOD) e design premium com Glassmorphism e foco de alto contraste."
+  "versionCode": 8,
+  "versionName": "3.8",
+  "apkUrl": "https://github.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/releases/download/3.8/SoniplayTOP-3.8.apk",
+  "changelog": "🚀 Novidades da Nova Versão:\n• ⚽ Guia de Futebol: Veja os jogos de hoje, acompanhe placares em tempo real e entre direto no canal da partida com apenas um clique!\n• ⚡ Mais Rápido e Fluido: Abertura imediata de filmes e séries, sem telas vazias e rodando muito mais leve no seu aparelho.\n• 🎯 Navegação no Controle: Movimentação 100% destravada nas setinhas do controle remoto em todas as telas e categorias."
 }
